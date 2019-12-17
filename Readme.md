@@ -8,4 +8,4 @@
 
 ## Run tests
 
-    $ npm start
+    $ npm run test
