@@ -1,0 +1,9 @@
+{
+  "$id": "http://example.com/todoList.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "title": "ToDos List",
+  "items": {
+    "$ref": "http://example.com/todo.schema.json#"
+  }
+}

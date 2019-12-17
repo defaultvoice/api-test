@@ -1,0 +1,21 @@
+{
+  "name": "api-test",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mikhail Frolkov <mikhail_frolkov@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.10.2",
+    "axios": "^0.19.0",
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.23"
+  }
+}
